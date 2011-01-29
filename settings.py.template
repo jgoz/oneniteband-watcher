@@ -1,0 +1,4 @@
+IMAP_SERVER_URL = 'imap.gmail.com'
+IMAP_SERVER_PORT = 993
+IMAP_USERNAME = 'username'
+IMAP_PASSWORD = 'changeme'
