@@ -1,0 +1,1 @@
+This is a simple python script to watch an IMAP (Gmail) account for unread messages, from which useful information is parsed and extracted. This information is then published to a database, likely couchdb.
